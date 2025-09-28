@@ -1,0 +1,5 @@
+{
+  "trusted_ips": ["192.168.1.0/24", "73.120.0.0/16" , "172.22.224.1", "45.3.89.89"],
+  "trusted_cities": ["Blacksburg", "Radford"],
+  "trusted_countries": ["US"]
+}

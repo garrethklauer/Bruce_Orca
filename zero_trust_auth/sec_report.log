@@ -1,0 +1,2 @@
+{"timestamp": "2025-09-27T22:47:00.010341", "status": "Granted", "score": 100, "reasons": []}
+{"timestamp": "2025-09-27T23:21:52.727606", "status": "Denied", "score": 70, "reasons": ["ip: 45.3.88.177 not trusted"]}
